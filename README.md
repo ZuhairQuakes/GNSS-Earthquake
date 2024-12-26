@@ -46,6 +46,15 @@ This repository contains a comprehensive Python implementation for computing str
 - Incorporate machine learning models to predict strain accumulation patterns.
 - Expand compatibility with additional geospatial data formats.
 
+---------------
+## Examples
+
+**Myanmar**
+![**Strain Rates**](images/result_mynamar.png "Strain Rates")
+This visualization represents the second invariant of the strain tensor, calculated over three different spatial grids of resolutions: 0.1° x 0.1°, 0.2° x 0.2°, and 0.3° x 0.3°. It depicts geospatial variations in strain rates over a region and is used to study tectonic deformation and seismic hazards in Myanmar.
+
+**Singapore**
+![**Strain Rates**](singapore_result.png "Strain Rates")
 
 
 
