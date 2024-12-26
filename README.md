@@ -49,12 +49,15 @@ This repository contains a comprehensive Python implementation for computing str
 ---------------
 ## Examples
 
+**Singapore**
+![**Strain Rates**](images/singapore_result.png "Strain Rates")
+The map illustrates the distribution of maximum shear strain across the region, highlighting high-strain zones (earthquake-prone regions) and low-strain stable zones, GPS station locations (black dots), deformation directions represented by arrows, and the presence of fault lines (black curves), which correlate with the strain distribution. The purpose of the study is to analyze surface deformation patterns and identify zones of tectonic stress accumulation. This analysis has applications in urban planning and infrastructure resilience, providing critical insights for mitigating risks in geologically active regions.
+
+---------
+
 **Myanmar**
 ![**Strain Rates**](images/result_mynamar.png "Strain Rates")
 This visualization represents the second invariant of the strain tensor, calculated over three different spatial grids of resolutions: 0.1° x 0.1°, 0.2° x 0.2°, and 0.3° x 0.3°. It depicts geospatial variations in strain rates over a region and is used to study tectonic deformation and seismic hazards in Myanmar.
-
-**Singapore**
-![**Strain Rates**](singapore_result.png "Strain Rates")
 
 
 
