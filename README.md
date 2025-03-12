@@ -1,4 +1,4 @@
-# Geospatial Tool for Earthquake Risk Assessment using InSAR and GPS Data
+# Geospatial Tool for Automated Earthquake Risk Assessment using GNSS Data
 
 This repository contains a comprehensive Python implementation for computing strain rates (*an indicator for stress accumulation within the Earth leading to earthquakes*) using GPS velocity field data. Designed to enhance geospatial data processing, the project automates strain computation and visualization, providing key insights into tectonic activity and earthquake-prone regions. The solution is highly modular, scalable, and tailored for professionals in geophysics, data science, and machine learning.
 
